@@ -1,3 +1,9 @@
+#In programming, an operator is a symbol that performs a specific operation
+# on one or more operands (values or variables). For example, in the 
+# expression "4 + 5", the + symbol is the operator that performs the
+# addition operation. 
+
+
 #Arithmetic operators
 #Arithmetic operators are used to perform mathematical operations such as addition, subtraction, multiplication, and division.
 
