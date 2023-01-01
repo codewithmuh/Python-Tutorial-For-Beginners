@@ -3,6 +3,10 @@
 # expression "4 + 5", the + symbol is the operator that performs the
 # addition operation. 
 
+1.#Arithmetic operators
+2. #Assignment operators
+3. #Comparison operators
+4. #Membership opertors
 
 #Arithmetic operators
 #Arithmetic operators are used to perform mathematical operations such as addition, subtraction, multiplication, and division.

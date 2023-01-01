@@ -1,4 +1,7 @@
-#A tuple is similar to a list, but it is immutable, which means that you cannot modify the values in a tuple once it has been created. In Python, you can create a tuple by enclosing a series of values in parentheses and separating them with commas:
+
+#A tuple is similar to a list, but it is immutable, which means that you cannot modify the values 
+# in a tuple once it has been created In Python, you can create a tuple by enclosing a series of 
+# values in parentheses and separating them with commas:
 
 
 x = (1, 2, 3)

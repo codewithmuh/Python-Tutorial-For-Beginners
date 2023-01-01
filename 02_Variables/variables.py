@@ -11,6 +11,11 @@
 
 #Let’s  jump into computer screen.
 
+
+# YES, Python is a case-sensitive programming language. This means that it treats uppercase 
+# and lowercase letters differently.
+# Hence, we cannot use two terms having same characters but different cases interchangeably in Python.
+
 x= 5
 print('x')
 

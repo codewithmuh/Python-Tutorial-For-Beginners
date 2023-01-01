@@ -1,3 +1,7 @@
+
+
+
+#A number is an arithmetic value used for representing the quantity and used in making calculations
 #Python has three built-in numeric data types: integers,
 #floating-point numbers, and complex numbers
 

@@ -1,6 +1,7 @@
 
 what is Boolean
-#A Boolean value is either True or False. In Python, you can create a Boolean value by assigning True or False to a variable:
+#A Boolean value is either True or False. In Python, you can create a Boolean value by assigning
+# True or False to a variable:
 
 #Example:
 
