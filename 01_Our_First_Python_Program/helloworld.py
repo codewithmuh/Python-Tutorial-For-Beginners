@@ -1,4 +1,9 @@
+
+# https://youtube.com/@codewithmuh
+# https://github.com/rashiddaha
+
 # Python Tutorial
+
 
 # Print Hello World
 print("Hello Wold")
@@ -24,3 +29,9 @@ print(2+2)
 # print(type({'name':'Asabeneh'})) # Dictionary
 # print(type({9.8, 3.14, 2.7}))    # Set
 # print(type((9.8, 3.14, 2.7)))    # Tuple
+
+
+
+# https://youtube.com/@codewithmuh
+# https://github.com/rashiddaha
+
