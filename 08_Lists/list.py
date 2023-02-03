@@ -26,3 +26,6 @@ print(x[2:])  # prints [3, 4, 5] (values at indices 2, 3, and 4)
 x = [1, 2, 3]
 len(x)  # returns 3
 #You can use the + operator to concatenate two lists:
+
+
+# https://youtube.com/@codewithmuh

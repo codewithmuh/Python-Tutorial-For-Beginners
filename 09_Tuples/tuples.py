@@ -30,3 +30,6 @@ x = (1, 2, 3)
 y = (4, 5, 6)
 z = x + y  # z is (1, 2, 3, 4, 5, 6)
 #Tuples are useful when you need to store a set of values that you do not want to modify. They are also used as keys in dictionaries, since they are immutable.
+
+
+# https://youtube.com/@codewithmuh

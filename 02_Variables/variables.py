@@ -1,18 +1,17 @@
-# Python Tutorial 2023
-# Video #05  - # Variables in Python
+# Python Tutorial 
 
 #Variables store data in a computer Memory.
 
-#A Python, a variable is a named location in memory used to store a value. When you create a variable, you specify
+# A Python, a variable is a named location in memory used to store a value. When you create a variable, you specify
 # its name and the value it should store. You can then access the value stored in a variable by referencing its name.
 
-#In Python, you can create variables of different types, such as integers, floating point numbers, and strings.
+# In Python, you can create variables of different types, such as integers, floating point numbers, and strings.
 # The type of a variable is determined by the value it stores.
 
-#Let’s  jump into computer screen.
+# Let’s  jump into computer screen.
 
 
-# YES, Python is a case-sensitive programming language. This means that it treats uppercase 
+# Python is a case-sensitive programming language. This means that it treats uppercase 
 # and lowercase letters differently.
 # Hence, we cannot use two terms having same characters but different cases interchangeably in Python.
 
@@ -26,7 +25,7 @@ z= 12.5
 
 # Declaring multiple variables in one line
 
-first_name, last_name, country, age, is_married = 'Asabeneh', 'Yetayeh', 'Helsink', 250, True
+first_name, last_name, country, age, is_married = 'Code With', 'Muh', 'Pakistan', 23, True
 
 print(first_name, last_name, country, age, is_married)
 print('First name:', first_name)
@@ -40,18 +39,18 @@ print('Married: ', is_married)
 ###
 
 
-first_name = 'Asabeneh'
-last_name = 'Yetayeh'
-country = 'Finland'
-city = 'Helsinki'
+first_name = 'Code with'
+last_name = 'Muh'
+country = 'Pakistan'
+city = 'Isb'
 age = 250
 is_married = True
 skills = ['HTML', 'CSS', 'JS', 'React', 'Python']
 person_info = {
-    'firstname':'Asabeneh', 
-    'lastname':'Yetayeh', 
-    'country':'Finland',
-    'city':'Helsinki'
+    'firstname':'David', 
+    'lastname':'Da', 
+    'country':'Pakistan',
+    'city':'Isb'
     }
 
 # Printing the values stored in the variables

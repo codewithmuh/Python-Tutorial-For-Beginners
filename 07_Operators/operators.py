@@ -110,3 +110,5 @@ b = x in z  # b is True
 # NOT IN
 a = x not in y  # a is True
 b = x not in z  # b is False
+
+# https://youtube.com/@codewithmuh

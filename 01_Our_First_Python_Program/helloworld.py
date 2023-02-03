@@ -1,5 +1,4 @@
-# Python Tutorial 2023
-# Video #04  - # Our First Python Program
+# Python Tutorial
 
 # Print Hello World
 print("Hello Wold")
