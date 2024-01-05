@@ -21,7 +21,7 @@ Feel free to request an issue on github if you find bugs or request a new featur
 
 ## Author :boy:
 
-* **Code With Muh** - [A-Patel](https://github.com/codewithmuh)
+* **Code With Muh** - [Code With Muh](https://github.com/codewithmuh)
 
 
 ##### Connect with me
