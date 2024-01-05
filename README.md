@@ -27,7 +27,7 @@ Feel free to request an issue on github if you find bugs or request a new featur
 ##### Connect with me
 
 | Linkedin | Portfolio | Medium | GitHub | Youtube | Twitter | Facebook | Instagram |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|----------|----------|
 | [![linkedin](https://img.icons8.com/ios-filled/96/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-rashid-daha/) | [![Portfolio](https://img.icons8.com/wired/96/000000/domain.png)](https://codewithmuh.com/) | [![medium](https://img.icons8.com/ios-filled/96/000000/medium-monogram.png)](https://medium.com/@codewithmuh) | [![github](https://img.icons8.com/ios-glyphs/96/000000/github.png)](https://github.com/codewithmuh) | [![youtube](https://img.icons8.com/windows/96/000000/youtube.png)](https://youtube.com/@codewithmuh) | [![twitter](https://img.icons8.com/ios-filled/96/000000/twitter.png)](https://twitter.com/rashiddaha80) | [![facebook](https://img.icons8.com/ios-filled/90/000000/facebook.png)](https://www.facebook.com/MuhammadRashid06/) | [![instagram](https://img.icons8.com/ios-filled/90/000000/instagram-new.png)](https://www.instagram.com/rashiddaha1/) |
 
 
@@ -35,7 +35,7 @@ Feel free to request an issue on github if you find bugs or request a new featur
 
 If you find this project useful — or just feeling generous, consider buying me a beer or a coffee. Cheers! :beers: :coffee:
 | BMC | Patreon |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- |
 | [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/codewithmuh) | [![Patreon](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/codewithmuh) |
 
 
